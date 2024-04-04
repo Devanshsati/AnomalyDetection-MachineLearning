@@ -1,5 +1,3 @@
-# AnomalyDetection-MachineLearning
-
 # Anomaly Detection in IoT Sensor Machine Learning Model GUI
 
 This GUI application facilitates the anomaly detection process in IoT sensor data using machine learning models. It allows users to load their CSV data, preprocess it, train machine learning models (Logistic Regression and Isolation Forest), and visualize the results.
